@@ -1,0 +1,9 @@
+From the Introduction to Linux course, I have gained a solid foundation in using the Linux operating system, 
+both through the command line and graphical user interfaces.
+I learned how to navigate the file system, manage files and directories, set file permissions, and work with users and groups. 
+The course also introduced me to essential commands for system monitoring, package management, and basic shell scripting. 
+I now understand the Linux file hierarchy, the importance of processes and services, and how to use tools like grep, 
+chmod, ps, and top. Overall, the course has equipped me with the practical skills and confidence to operate effectively 
+in a Linux environment.
+
+
