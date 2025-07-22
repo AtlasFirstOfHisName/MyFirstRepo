@@ -1,1 +1,1 @@
-I am Atlas and I'm a Genius
+This is my first repository created as part of a GitHub learning task
